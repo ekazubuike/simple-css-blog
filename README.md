@@ -1,0 +1,1 @@
+A simple blog laout styled with CSS.
